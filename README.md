@@ -3,8 +3,8 @@ El ejercicio tratara de una pagina en la que cada usuario elige el anime que mas
 
 
 <img src="capturas/base-datos.png">
-Las tablas de la base de datos
 
+Las tablas de la base de datos
 
 <img src="capturas/portada.png">
 
@@ -12,19 +12,15 @@ La portada de la pagina
 
 <img src="capturas/index.png">
 
-
 El índice de la pagina
 
 <img src="capturas/usuario-creado.png">
 
-
 Usuario creado!!
-
 
 <img src="capturas/modificar.png">
 
 Modificar un usuario
-
 
 <img src="capturas/guarda-modificar.png">
 
