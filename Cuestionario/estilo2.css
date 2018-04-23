@@ -1,0 +1,39 @@
+body{
+	background-image: url(fotos/anime6.png);
+	background-repeat: no-repeat;
+        margin: 0 auto; 
+        background-color: rgb(79,222,238);
+}
+#wrapper{
+	width: 1032px;
+	margin:-48px auto;
+	padding: 50px;
+	border-radius: 50px;
+background-color: rgba(56,181,222,0.6);
+border: 2px solid #000;
+}
+#copy{
+    width: 171px;
+    background-color: rgba(56,181,222,0.6);
+    border-radius: 50px;
+    border: 2px solid #000;
+    position:relative;
+    top:77px;
+}
+#añadir{
+	background-color: rgb(181,230,29);
+}
+#modificar{
+	background-color: rgb(51,208,201);
+}
+#eliminar{
+	background-color: red;
+}
+#header{
+	width: 337px;
+margin: 43px auto;
+padding: 12px;
+border-radius: 50px;
+border: 2px solid #000;
+background-color: rgba(89,185,213,0.6);
+}

@@ -1,0 +1,19 @@
+body{
+    background-image: url(fotos/anime3.jpg);
+	background-repeat: no-repeat;
+        margin: 0 auto; 
+     }
+ #wrapper{
+	width: 171px;
+	margin:203px auto;
+	padding: 50px;
+	border-radius: 50px;
+    background-color: rgba(56,181,222,0.6);
+    border: 2px solid #000;
+}
+button{
+    position:relative;
+    top:27px;
+    left:20px;
+    background-color: rgb(153,29,201);
+}
