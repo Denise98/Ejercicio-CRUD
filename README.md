@@ -6,27 +6,27 @@ El ejercicio tratara de una pagina en la que cada usuario elige el anime que mas
 Las tablas de la base de datos
 
 
-https://raw.github.com/denise98/Ejercicio-CRUD/capturas/portada.png
+<img src="capturas/portada.png">
 
 La portada de la pagina
 
-https://raw.github.com/denise98/Ejercicio-CRUD/capturas/index.png
+<img src="capturas/index.png">
 
 
 El índice de la pagina
 
-https://raw.github.com/denise98/Ejercicio-CRUD/capturas/usuario-creado.png
+<img src="capturas/usuario-creado.png">
 
 
 Usuario creado!!
 
 
-https://raw.github.com/denise98/Ejercicio-CRUD/capturas/modificar.png
+<img src="capturas/modificar.png">
 
 Modificar un usuario
 
 
-https://raw.github.com/denise98/Ejercicio-CRUD/capturas/guarda-modificar.png
+<img src="capturas/guarda-modificar.png">
 
 Usuario actualizado
 
